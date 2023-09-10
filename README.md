@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('P1010052.JPG');
+  background-image: url('P1010052 copy2.JPG');
   background-repeat: no-repeat;
   background-size: cover;
 }
