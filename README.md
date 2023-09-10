@@ -1,7 +1,6 @@
 <style>
 body {
   background-image: url('P1010052 copy2.png');
-  background-repeat: no-repeat;
   background-size: cover;
 }
 </style>
