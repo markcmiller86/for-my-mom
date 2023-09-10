@@ -4,6 +4,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+img {
+  opacity: 0.5;
+}
 </style>
 
 Patricia Ann (Pat) Miller (Denn) was born in Ishpeming, Michigan on September 30th, 1938, the only child of Marjory and Albert P. Denn. Pat graduated from Ishpeming High School in 1956 and went on to attend the University of Michigan to major in Music Education. Early in her second year, she met a graduate student there, Edmund Miller. They decided to spend their lives together and married at St. Johns Church in Ishpeming on August 23, 1958. 
