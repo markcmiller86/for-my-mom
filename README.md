@@ -1,3 +1,9 @@
+<style>
+body {
+  background-image: url('P1010052.JPG');
+}
+</style>
+
 Patricia Ann (Pat) Miller (Denn) was born in Ishpeming, Michigan on September 30th, 1938, the only child of Marjory and Albert P. Denn. Pat graduated from Ishpeming High School in 1956 and went on to attend the University of Michigan to major in Music Education. Early in her second year, she met a graduate student there, Edmund Miller. They decided to spend their lives together and married at St. Johns Church in Ishpeming on August 23, 1958. 
 
 By 1963, Pat was already raising two children, Kerry Ann (1959) and Mark Christopher (1963) and she and Ed were finishing their college educations at the University of Michigan. During this time, Pat played flute and piccolo in the University of Michigan and Ann Arbor City Symphony Orchestras.
