@@ -1,6 +1,7 @@
 <style>
 body {
   background-image: url('P1010052.JPG');
+  background-repeat: no-repeat;
 }
 </style>
 
