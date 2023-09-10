@@ -1,13 +1,12 @@
 <style>
-body {
+.image {
   background-image: url('P1010052.JPG');
   background-repeat: no-repeat;
   background-size: cover;
 }
-img {
-  opacity: 0.5;
-}
 </style>
+
+<div class="image" style="opacity:0.5;">
 
 Patricia Ann (Pat) Miller (Denn) was born in Ishpeming, Michigan on September 30th, 1938, the only child of Marjory and Albert P. Denn. Pat graduated from Ishpeming High School in 1956 and went on to attend the University of Michigan to major in Music Education. Early in her second year, she met a graduate student there, Edmund Miller. They decided to spend their lives together and married at St. Johns Church in Ishpeming on August 23, 1958. 
 
@@ -28,3 +27,5 @@ Pat was a detail-oriented person, always planning and making lists and organizin
 In her last few years, Pat suffered from several health challenges that limited her ability to travel or engage in many of the activities she loved. But, one thing she always made sure to do was have a cup of hot tea with some cookies in the afternoons.
 
 Pat is survived by her husband, her 2 children and a grandchild Veronica Bettencourt.
+
+</div>
