@@ -1,7 +1,9 @@
 ---
-title: When a Soul Leaves the Earth
+title: Reflection
 permalink: /reflection/
 ---
+### When a Soul Leaves the Earth
+
 When a Soul leaves the earth life keeps going but our minds will tend to spin
 Replaying statements, thoughts, and actions done which transpired before the end
 
