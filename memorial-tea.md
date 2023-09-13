@@ -8,4 +8,4 @@ permalink: /memorial-tea/
 Thanks to good friends who took time to meet and enjoy "high tea" in memory of my mom.
 The time together and fellowship was priceless.
 
-![](./images/imgs/11002.jpeg)
+![](./images/imgs/11002.jpg)
