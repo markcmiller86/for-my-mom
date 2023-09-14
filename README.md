@@ -6,7 +6,7 @@ body {
 
 Patricia Ann (Pat) Miller (Denn) was born in Ishpeming, Michigan on September 30th, 1938, the only child of Marjory and Albert P. Denn. Pat graduated from Ishpeming High School in 1956 and went on to attend the University of Michigan to major in Music Education. Early in her second year, she met a graduate student there, Edmund Miller. They decided to spend their lives together and married at St. Johns Church in Ishpeming on August 23, 1958. 
 
-By 1963, Pat was already raising two children, Kerry Ann (1959) and Mark Christopher (1963) and she and Ed were finishing their college educations at the University of Michigan. During this time, Pat played flute and piccolo in the University of Michigan and Ann Arbor City Symphony Orchestras.
+By 1963, Pat was already raising two children, Kerry and Mark and she and Ed were finishing their college educations at the University of Michigan. During this time, Pat played flute and piccolo in the University of Michigan and Ann Arbor City Symphony Orchestras.
 
 The family left Ann Arbor in 1968 for the San Francisco bay area in California where Ed had found employment and eventually settled at Lawrence Livermore National Laboratory. During their years in the bay area, Pat not only made a home for her family but also taught private music lessons for flute, clarinet and piano students and played flute and piccolo in the Livermore-Amador Symphony orchestra.
 
@@ -22,4 +22,4 @@ Pat was a detail-oriented person, always planning and making lists and organizin
 
 In her last few years, Pat suffered from several health challenges that limited her ability to travel or engage in many of the activities she loved. But, one thing she always made sure to do was have a cup of hot tea with some cookies in the afternoons.
 
-Pat is survived by her husband, her 2 children and a grandchild Veronica Bettencourt.
+Pat is survived by her husband, her 2 children and a grandchild Veronica.
